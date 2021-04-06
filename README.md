@@ -1,7 +1,7 @@
 # WebARwithModelViewer
-modelViwerでwebARやるお
+modelViwerでwebAR
 
-下のリンクをARcoreもしくはARkit対応の端末で見ると、ボクセルのキャラクターがARで表示されます。
+下のリンクをARcoreもしくはARkit対応の端末で見ると、３DモデルがARで表示されます。
 
 https://soichiro-xse.github.io/WebARWithModelViewer/
 
